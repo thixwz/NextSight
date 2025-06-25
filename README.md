@@ -1,4 +1,4 @@
-# nextsight2_0
+# NextSight
 
 A new Flutter project.
 
